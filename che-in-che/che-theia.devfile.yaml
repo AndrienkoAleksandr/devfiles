@@ -56,7 +56,7 @@ components:
 
   - type: cheEditor
     alias: theia-editor
-    reference: https://github.com/AndrienkoAleksandr/che-plugin-registry/blob/crt/v3/plugins/eclipse/che-theia/next/meta.yaml
+    reference: https://raw.githubusercontent.com/AndrienkoAleksandr/che-plugin-registry/crt/v3/plugins/eclipse/che-theia/next/meta.yaml
 
 commands:
 
